@@ -230,3 +230,19 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 img {
     border-radius: 100%;
 }
+.copy{
+    position: absolute;
+    top: 1620px;
+    font-family: Nositer;
+    left: 600px;
+    font-size: 20px;
+    color: purple; 
+}
+.ab{
+    position: absolute;
+    top: 1640px;
+    font-family: Nositer;
+    left: 630px;
+    font-size: 20px;
+    color: purple; 
+}
